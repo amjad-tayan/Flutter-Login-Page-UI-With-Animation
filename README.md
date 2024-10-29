@@ -1,16 +1,7 @@
-# login_page_ui
+## Flutter-Login-Page-UI-With-Animation
 
-A new Flutter project.
+Let's see how we can design a Login page UI and add some cool animation
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot/one.png" height="500em" />
